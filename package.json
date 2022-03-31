@@ -74,7 +74,7 @@
       },
       "disqus_shortname": {
           "type": "text",
-          "default": "",
+          "default": "azureblue",
           "group": "post"
       },
       "darkmode_accent_color": {
