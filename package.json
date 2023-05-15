@@ -79,7 +79,7 @@
       },
       "darkmode_accent_color": {
         "type": "color",
-        "default": "#ff6633"
+        "default": "#8dd6f9"
       }
     }
   },
